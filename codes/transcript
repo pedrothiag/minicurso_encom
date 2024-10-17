@@ -1,0 +1,32 @@
+# Compile of ex1.sv was successful.
+# Compile of tb_ex1.sv was successful.
+# Compile of ex2.sv was successful.
+# Compile of tb_ex2.sv was successful.
+# Compile of ex3.sv was successful.
+# Compile of fa.sv was successful.
+# Compile of tb_ex3.sv was successful.
+# Compile of ex4.sv was successful.
+# Compile of tb_ex4.sv was successful.
+# Compile of ex5.sv was successful.
+# Compile of tb_ex5.sv was successful.
+# Compile of ex6.sv was successful.
+# Compile of tb_ex6.sv was successful.
+# Compile of fsk.sv was successful.
+# Compile of fsk_tb.sv was successful.
+# 15 compiles, 0 failed with no errors.
+vsim -gui work.fsk_tb
+# vsim -gui work.fsk_tb 
+# Start time: 20:07:22 on Oct 17,2024
+# Loading sv_std.std
+# Loading work.fsk_tb
+# Loading work.fsk
+add wave -position end  sim:/fsk_tb/clk
+add wave -position end  sim:/fsk_tb/rst
+add wave -position end  sim:/fsk_tb/x
+add wave -position end  sim:/fsk_tb/y
+run -all
+# ** Note: $stop    : C:/Users/souza/Desktop/minicurso_encom/codes/fsk_tb.sv(18)
+#    Time: 1510 ps  Iteration: 0  Instance: /fsk_tb
+# Break in Module fsk_tb at C:/Users/souza/Desktop/minicurso_encom/codes/fsk_tb.sv line 18
+# End time: 20:08:08 on Oct 17,2024, Elapsed time: 0:00:46
+# Errors: 0, Warnings: 3

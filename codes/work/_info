@@ -1,0 +1,386 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/souza/Desktop/minicurso_encom/codigos
+vex1
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z1 !s110 1729206435
+!i10b 1
+!s100 ]o^b77K_27^Q21ek1<oHO0
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I[?_;o5:CQKi]PFGk<K=iP0
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z4 dC:/Users/souza/Desktop/minicurso_encom/codes
+w1729196523
+8C:/Users/souza/Desktop/minicurso_encom/codes/ex1.sv
+FC:/Users/souza/Desktop/minicurso_encom/codes/ex1.sv
+!i122 104
+Z5 L0 1 7
+Z6 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z7 !s108 1729206435.000000
+!s107 C:/Users/souza/Desktop/minicurso_encom/codes/ex1.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/souza/Desktop/minicurso_encom/codes/ex1.sv|
+!i113 1
+Z8 o-work work -sv
+Z9 tCvgOpt 0
+vex2
+R0
+R1
+!i10b 1
+!s100 >;f<kCRdeR:Zg=a@[^Hb43
+R2
+IIZ5CI;GAah[_C97`BUVGE0
+R3
+S1
+R4
+w1729196986
+8C:/Users/souza/Desktop/minicurso_encom/codes/ex2.sv
+FC:/Users/souza/Desktop/minicurso_encom/codes/ex2.sv
+!i122 106
+L0 1 11
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/souza/Desktop/minicurso_encom/codes/ex2.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/souza/Desktop/minicurso_encom/codes/ex2.sv|
+!i113 1
+R8
+R9
+vex3
+R0
+R1
+!i10b 1
+!s100 n9@YCmNLl@VSb?i67@GH32
+R2
+I`N;o1]JGBN_kX12==WKMP2
+R3
+S1
+R4
+w1729197427
+8C:/Users/souza/Desktop/minicurso_encom/codes/ex3.sv
+FC:/Users/souza/Desktop/minicurso_encom/codes/ex3.sv
+!i122 108
+L0 1 12
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/souza/Desktop/minicurso_encom/codes/ex3.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/souza/Desktop/minicurso_encom/codes/ex3.sv|
+!i113 1
+R8
+R9
+vex4
+R0
+Z10 !s110 1729206436
+!i10b 1
+!s100 C>bDQDAj8VIYSe?3YPWm?0
+R2
+IY7@i4DiW7A`5o5o[HVJYf2
+R3
+S1
+R4
+w1729204575
+8C:/Users/souza/Desktop/minicurso_encom/codes/ex4.sv
+FC:/Users/souza/Desktop/minicurso_encom/codes/ex4.sv
+!i122 111
+L0 1 9
+R6
+r1
+!s85 0
+31
+Z11 !s108 1729206436.000000
+!s107 C:/Users/souza/Desktop/minicurso_encom/codes/ex4.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/souza/Desktop/minicurso_encom/codes/ex4.sv|
+!i113 1
+R8
+R9
+vex5
+R0
+R10
+!i10b 1
+!s100 19V7ZSadUekn]U>Ho[olC3
+R2
+IVZO=eP:Sd9H8<VMIZYh>l2
+R3
+S1
+R4
+w1729204713
+8C:/Users/souza/Desktop/minicurso_encom/codes/ex5.sv
+FC:/Users/souza/Desktop/minicurso_encom/codes/ex5.sv
+!i122 113
+Z12 L0 1 18
+R6
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/souza/Desktop/minicurso_encom/codes/ex5.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/souza/Desktop/minicurso_encom/codes/ex5.sv|
+!i113 1
+R8
+R9
+vex6
+R0
+R10
+!i10b 1
+!s100 P4g7?LW_XojTHh5E`:Qh[1
+R2
+I96n8o<f1?[IRk`?TKQ91B0
+R3
+S1
+R4
+w1729205095
+8C:/Users/souza/Desktop/minicurso_encom/codes/ex6.sv
+FC:/Users/souza/Desktop/minicurso_encom/codes/ex6.sv
+!i122 115
+L0 1 45
+R6
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/souza/Desktop/minicurso_encom/codes/ex6.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/souza/Desktop/minicurso_encom/codes/ex6.sv|
+!i113 1
+R8
+R9
+vfa
+R0
+R10
+!i10b 1
+!s100 g^5^?^1BNSM@jChgBgcHO1
+R2
+I544W`D^8=d8k2f@[fZk1]3
+R3
+S1
+R4
+w1729197239
+8C:/Users/souza/Desktop/minicurso_encom/codes/fa.sv
+FC:/Users/souza/Desktop/minicurso_encom/codes/fa.sv
+!i122 109
+R5
+R6
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/souza/Desktop/minicurso_encom/codes/fa.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/souza/Desktop/minicurso_encom/codes/fa.sv|
+!i113 1
+R8
+R9
+vfsk
+R0
+R10
+!i10b 1
+!s100 X[n?U1`1ddIJDX8[X[88e1
+R2
+IM0EK[oZm4jLfa;;>C0fHn1
+R3
+S1
+R4
+w1729206378
+8C:/Users/souza/Desktop/minicurso_encom/codes/fsk.sv
+FC:/Users/souza/Desktop/minicurso_encom/codes/fsk.sv
+!i122 117
+L0 1 40
+R6
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/souza/Desktop/minicurso_encom/codes/fsk.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/souza/Desktop/minicurso_encom/codes/fsk.sv|
+!i113 1
+R8
+R9
+vfsk_tb
+R0
+R10
+!i10b 1
+!s100 QJ80[h@5B`@DP;FjFLIGl2
+R2
+I^lSV?aVR2HIzgQUmQb<^H2
+R3
+S1
+R4
+w1729206412
+8C:/Users/souza/Desktop/minicurso_encom/codes/fsk_tb.sv
+FC:/Users/souza/Desktop/minicurso_encom/codes/fsk_tb.sv
+!i122 118
+Z13 L0 1 23
+R6
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/souza/Desktop/minicurso_encom/codes/fsk_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/souza/Desktop/minicurso_encom/codes/fsk_tb.sv|
+!i113 1
+R8
+R9
+vtb_ex1
+R0
+R1
+!i10b 1
+!s100 fYKAVN036B@lBPj2PlC=b0
+R2
+I1V0^hX4a@i_RV:bb=2GT:3
+R3
+S1
+R4
+w1729196856
+8C:/Users/souza/Desktop/minicurso_encom/codes/tb_ex1.sv
+FC:/Users/souza/Desktop/minicurso_encom/codes/tb_ex1.sv
+!i122 105
+R12
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/souza/Desktop/minicurso_encom/codes/tb_ex1.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/souza/Desktop/minicurso_encom/codes/tb_ex1.sv|
+!i113 1
+R8
+R9
+vtb_ex2
+R0
+R1
+!i10b 1
+!s100 gKBaA^[j@UJgk:4?3g8HQ0
+R2
+I?9m>hICATT?iT[Z@hXhVQ3
+R3
+S1
+R4
+w1729197134
+8C:/Users/souza/Desktop/minicurso_encom/codes/tb_ex2.sv
+FC:/Users/souza/Desktop/minicurso_encom/codes/tb_ex2.sv
+!i122 107
+Z14 L0 1 17
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/souza/Desktop/minicurso_encom/codes/tb_ex2.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/souza/Desktop/minicurso_encom/codes/tb_ex2.sv|
+!i113 1
+R8
+R9
+vtb_ex3
+R0
+R10
+!i10b 1
+!s100 <JBgAPPf3YY<BEOEEW6Y43
+R2
+I<=8;>4`;ib1MzcNgRo@E;2
+R3
+S1
+R4
+w1729197389
+8C:/Users/souza/Desktop/minicurso_encom/codes/tb_ex3.sv
+FC:/Users/souza/Desktop/minicurso_encom/codes/tb_ex3.sv
+!i122 110
+R14
+R6
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/souza/Desktop/minicurso_encom/codes/tb_ex3.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/souza/Desktop/minicurso_encom/codes/tb_ex3.sv|
+!i113 1
+R8
+R9
+vtb_ex4
+R0
+R10
+!i10b 1
+!s100 l8aB]U6@n4EPMXfK=K<_m3
+R2
+IjSK_eB3_@V09Leeh_Y>^=1
+R3
+S1
+R4
+w1729204561
+8C:/Users/souza/Desktop/minicurso_encom/codes/tb_ex4.sv
+FC:/Users/souza/Desktop/minicurso_encom/codes/tb_ex4.sv
+!i122 112
+R12
+R6
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/souza/Desktop/minicurso_encom/codes/tb_ex4.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/souza/Desktop/minicurso_encom/codes/tb_ex4.sv|
+!i113 1
+R8
+R9
+vtb_ex5
+R0
+R10
+!i10b 1
+!s100 :YX;KE`<ek^=aVB;m72Rb3
+R2
+I`jFFWMOKF;BKik_TTI6hZ0
+R3
+S1
+R4
+w1729204987
+8C:/Users/souza/Desktop/minicurso_encom/codes/tb_ex5.sv
+FC:/Users/souza/Desktop/minicurso_encom/codes/tb_ex5.sv
+!i122 114
+L0 1 20
+R6
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/souza/Desktop/minicurso_encom/codes/tb_ex5.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/souza/Desktop/minicurso_encom/codes/tb_ex5.sv|
+!i113 1
+R8
+R9
+vtb_ex6
+R0
+R10
+!i10b 1
+!s100 A:nP9iG;S40c7_SDb_]^:2
+R2
+IDO4bX[9AT1O2cff3Pe3HS0
+R3
+S1
+R4
+w1729205315
+8C:/Users/souza/Desktop/minicurso_encom/codes/tb_ex6.sv
+FC:/Users/souza/Desktop/minicurso_encom/codes/tb_ex6.sv
+!i122 116
+R13
+R6
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/souza/Desktop/minicurso_encom/codes/tb_ex6.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/souza/Desktop/minicurso_encom/codes/tb_ex6.sv|
+!i113 1
+R8
+R9

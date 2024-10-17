@@ -1,0 +1,106 @@
+C:/Users/souza/Desktop/minicurso_encom/codes/fsk.sv {1 {vlog -work work -sv -stats=none C:/Users/souza/Desktop/minicurso_encom/codes/fsk.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module fsk
+
+Top level modules:
+	fsk
+
+} {} {}} C:/Users/souza/Desktop/minicurso_encom/codes/tb_ex3.sv {1 {vlog -work work -sv -stats=none C:/Users/souza/Desktop/minicurso_encom/codes/tb_ex3.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_ex3
+
+Top level modules:
+	tb_ex3
+
+} {} {}} C:/Users/souza/Desktop/minicurso_encom/codes/ex1.sv {1 {vlog -work work -sv -stats=none C:/Users/souza/Desktop/minicurso_encom/codes/ex1.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ex1
+
+Top level modules:
+	ex1
+
+} {} {}} C:/Users/souza/Desktop/minicurso_encom/codes/tb_ex5.sv {1 {vlog -work work -sv -stats=none C:/Users/souza/Desktop/minicurso_encom/codes/tb_ex5.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_ex5
+
+Top level modules:
+	tb_ex5
+
+} {} {}} C:/Users/souza/Desktop/minicurso_encom/codes/ex3.sv {1 {vlog -work work -sv -stats=none C:/Users/souza/Desktop/minicurso_encom/codes/ex3.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ex3
+
+Top level modules:
+	ex3
+
+} {} {}} C:/Users/souza/Desktop/minicurso_encom/codes/fsk_tb.sv {1 {vlog -work work -sv -stats=none C:/Users/souza/Desktop/minicurso_encom/codes/fsk_tb.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module fsk_tb
+
+Top level modules:
+	fsk_tb
+
+} {} {}} C:/Users/souza/Desktop/minicurso_encom/codes/ex5.sv {1 {vlog -work work -sv -stats=none C:/Users/souza/Desktop/minicurso_encom/codes/ex5.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ex5
+
+Top level modules:
+	ex5
+
+} {} {}} C:/Users/souza/Desktop/minicurso_encom/codes/tb_ex2.sv {1 {vlog -work work -sv -stats=none C:/Users/souza/Desktop/minicurso_encom/codes/tb_ex2.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_ex2
+
+Top level modules:
+	tb_ex2
+
+} {} {}} C:/Users/souza/Desktop/minicurso_encom/codes/tb_ex4.sv {1 {vlog -work work -sv -stats=none C:/Users/souza/Desktop/minicurso_encom/codes/tb_ex4.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_ex4
+
+Top level modules:
+	tb_ex4
+
+} {} {}} C:/Users/souza/Desktop/minicurso_encom/codes/fa.sv {1 {vlog -work work -sv -stats=none C:/Users/souza/Desktop/minicurso_encom/codes/fa.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module fa
+
+Top level modules:
+	fa
+
+} {} {}} C:/Users/souza/Desktop/minicurso_encom/codes/ex2.sv {1 {vlog -work work -sv -stats=none C:/Users/souza/Desktop/minicurso_encom/codes/ex2.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ex2
+
+Top level modules:
+	ex2
+
+} {} {}} C:/Users/souza/Desktop/minicurso_encom/codes/tb_ex6.sv {1 {vlog -work work -sv -stats=none C:/Users/souza/Desktop/minicurso_encom/codes/tb_ex6.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_ex6
+
+Top level modules:
+	tb_ex6
+
+} {} {}} C:/Users/souza/Desktop/minicurso_encom/codes/ex4.sv {1 {vlog -work work -sv -stats=none C:/Users/souza/Desktop/minicurso_encom/codes/ex4.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ex4
+
+Top level modules:
+	ex4
+
+} {} {}} C:/Users/souza/Desktop/minicurso_encom/codes/ex6.sv {1 {vlog -work work -sv -stats=none C:/Users/souza/Desktop/minicurso_encom/codes/ex6.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ex6
+
+Top level modules:
+	ex6
+
+} {} {}} C:/Users/souza/Desktop/minicurso_encom/codes/tb_ex1.sv {1 {vlog -work work -sv -stats=none C:/Users/souza/Desktop/minicurso_encom/codes/tb_ex1.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_ex1
+
+Top level modules:
+	tb_ex1
+
+} {} {}}
